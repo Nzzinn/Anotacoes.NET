@@ -1,0 +1,7 @@
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\ExercicioResolvidoMatriz.exe
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\ExercicioResolvidoMatriz.pdb
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.exe
+C:\Users\2569792\Documents\CursoC#\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.pdb

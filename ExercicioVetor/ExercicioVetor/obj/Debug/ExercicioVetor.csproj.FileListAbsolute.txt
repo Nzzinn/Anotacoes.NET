@@ -1,0 +1,7 @@
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.exe
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.pdb
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.exe
+C:\Users\2569792\Documents\CursoC#\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.pdb

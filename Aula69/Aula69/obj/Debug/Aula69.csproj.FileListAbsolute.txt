@@ -1,0 +1,7 @@
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\obj\Debug\Aula69.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\obj\Debug\Aula69.csproj.SuggestedBindingRedirects.cache
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\obj\Debug\Aula69.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\bin\Debug\Aula69.exe
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\bin\Debug\Aula69.pdb
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\obj\Debug\Aula69.exe
+C:\Users\2569792\Documents\CursoC#\Aula69\Aula69\obj\Debug\Aula69.pdb

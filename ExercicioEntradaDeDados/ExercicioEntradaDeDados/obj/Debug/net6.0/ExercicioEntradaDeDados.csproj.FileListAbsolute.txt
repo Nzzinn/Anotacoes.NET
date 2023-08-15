@@ -1,0 +1,15 @@
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net6.0\ExercicioEntradaDeDados.exe
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net6.0\ExercicioEntradaDeDados.deps.json
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net6.0\ExercicioEntradaDeDados.runtimeconfig.json
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net6.0\ExercicioEntradaDeDados.dll
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net6.0\ExercicioEntradaDeDados.pdb
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.AssemblyInfo.cs
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.dll
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\refint\ExercicioEntradaDeDados.dll
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.pdb
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ExercicioEntradaDeDados.genruntimeconfig.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net6.0\ref\ExercicioEntradaDeDados.dll

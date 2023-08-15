@@ -1,0 +1,15 @@
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\bin\Debug\net6.0\CourseDotNet.exe
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\bin\Debug\net6.0\CourseDotNet.deps.json
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\bin\Debug\net6.0\CourseDotNet.runtimeconfig.json
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\bin\Debug\net6.0\CourseDotNet.dll
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\bin\Debug\net6.0\CourseDotNet.pdb
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.AssemblyInfoInputs.cache
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.AssemblyInfo.cs
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.dll
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\refint\CourseDotNet.dll
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.pdb
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\CourseDotNet.genruntimeconfig.cache
+C:\Users\2569792\Documents\CursoC#\CourseDotNet\CourseDotNet\obj\Debug\net6.0\ref\CourseDotNet.dll

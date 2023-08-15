@@ -1,0 +1,15 @@
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\bin\Debug\net6.0\ListaExercicioClasses.exe
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\bin\Debug\net6.0\ListaExercicioClasses.deps.json
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\bin\Debug\net6.0\ListaExercicioClasses.runtimeconfig.json
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\bin\Debug\net6.0\ListaExercicioClasses.dll
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\bin\Debug\net6.0\ListaExercicioClasses.pdb
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.AssemblyInfoInputs.cache
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.AssemblyInfo.cs
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.dll
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\refint\ListaExercicioClasses.dll
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.pdb
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ListaExercicioClasses.genruntimeconfig.cache
+C:\Users\2569792\Documents\CursoC#\ListaExercicioClasses\ListaExercicioClasses\obj\Debug\net6.0\ref\ListaExercicioClasses.dll

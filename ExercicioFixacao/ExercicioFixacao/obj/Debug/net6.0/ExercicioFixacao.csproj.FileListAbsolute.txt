@@ -1,0 +1,15 @@
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.exe
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.deps.json
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\refint\ExercicioFixacao.dll
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\2569792\Documents\CursoC#\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ref\ExercicioFixacao.dll

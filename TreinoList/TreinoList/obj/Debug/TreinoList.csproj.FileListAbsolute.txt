@@ -1,0 +1,7 @@
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\bin\Debug\TreinoList.exe
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\bin\Debug\TreinoList.pdb
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\obj\Debug\TreinoList.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\obj\Debug\TreinoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\obj\Debug\TreinoList.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\obj\Debug\TreinoList.exe
+C:\Users\2569792\Documents\CursoC#\TreinoList\TreinoList\obj\Debug\TreinoList.pdb

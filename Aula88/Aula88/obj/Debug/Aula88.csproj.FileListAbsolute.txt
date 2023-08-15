@@ -1,0 +1,7 @@
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\bin\Debug\Aula88.exe
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\bin\Debug\Aula88.pdb
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\obj\Debug\Aula88.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\obj\Debug\Aula88.csproj.SuggestedBindingRedirects.cache
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\obj\Debug\Aula88.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\obj\Debug\Aula88.exe
+C:\Users\2569792\Documents\CursoC#\Aula88\Aula88\obj\Debug\Aula88.pdb
