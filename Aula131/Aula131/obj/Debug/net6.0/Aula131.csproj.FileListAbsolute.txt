@@ -1,0 +1,14 @@
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.AssemblyInfoInputs.cache
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.AssemblyInfo.cs
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.csproj.CoreCompileInputs.cache
+C:\Users\2569792\source\repos\Aula131\Aula131\bin\Debug\net6.0\Aula131.exe
+C:\Users\2569792\source\repos\Aula131\Aula131\bin\Debug\net6.0\Aula131.deps.json
+C:\Users\2569792\source\repos\Aula131\Aula131\bin\Debug\net6.0\Aula131.runtimeconfig.json
+C:\Users\2569792\source\repos\Aula131\Aula131\bin\Debug\net6.0\Aula131.dll
+C:\Users\2569792\source\repos\Aula131\Aula131\bin\Debug\net6.0\Aula131.pdb
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.dll
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\refint\Aula131.dll
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.pdb
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\Aula131.genruntimeconfig.cache
+C:\Users\2569792\source\repos\Aula131\Aula131\obj\Debug\net6.0\ref\Aula131.dll

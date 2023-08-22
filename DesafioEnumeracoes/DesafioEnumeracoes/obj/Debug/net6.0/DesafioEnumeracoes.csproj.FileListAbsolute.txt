@@ -1,0 +1,14 @@
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\bin\Debug\net6.0\DesafioEnumeracoes.exe
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\bin\Debug\net6.0\DesafioEnumeracoes.deps.json
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\bin\Debug\net6.0\DesafioEnumeracoes.runtimeconfig.json
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\bin\Debug\net6.0\DesafioEnumeracoes.dll
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\bin\Debug\net6.0\DesafioEnumeracoes.pdb
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.AssemblyInfoInputs.cache
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.AssemblyInfo.cs
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.dll
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\refint\DesafioEnumeracoes.dll
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.pdb
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\DesafioEnumeracoes.genruntimeconfig.cache
+C:\Users\2569792\source\repos\DesafioEnumeracoes\DesafioEnumeracoes\obj\Debug\net6.0\ref\DesafioEnumeracoes.dll

@@ -5,3 +5,10 @@ C:\Users\2569792\Documents\CursoC#\Aula89\Aula89\obj\Debug\Aula89.csproj.Suggest
 C:\Users\2569792\Documents\CursoC#\Aula89\Aula89\obj\Debug\Aula89.csproj.CoreCompileInputs.cache
 C:\Users\2569792\Documents\CursoC#\Aula89\Aula89\obj\Debug\Aula89.exe
 C:\Users\2569792\Documents\CursoC#\Aula89\Aula89\obj\Debug\Aula89.pdb
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\bin\Debug\Aula89.exe
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\bin\Debug\Aula89.pdb
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\obj\Debug\Aula89.csproj.AssemblyReference.cache
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\obj\Debug\Aula89.csproj.SuggestedBindingRedirects.cache
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\obj\Debug\Aula89.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\obj\Debug\Aula89.exe
+C:\Users\2569792\Documents\Anotacoes.NET\Aula89\Aula89\obj\Debug\Aula89.pdb
