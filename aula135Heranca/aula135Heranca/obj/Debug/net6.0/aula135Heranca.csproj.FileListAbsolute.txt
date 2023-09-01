@@ -1,0 +1,14 @@
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\bin\Debug\net6.0\aula135Heranca.exe
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\bin\Debug\net6.0\aula135Heranca.deps.json
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\bin\Debug\net6.0\aula135Heranca.runtimeconfig.json
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\bin\Debug\net6.0\aula135Heranca.dll
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\bin\Debug\net6.0\aula135Heranca.pdb
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.AssemblyInfoInputs.cache
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.AssemblyInfo.cs
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.dll
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\refint\aula135Heranca.dll
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.pdb
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\aula135Heranca.genruntimeconfig.cache
+C:\Users\2569792\Documents\Anotacoes.NET\aula135Heranca\aula135Heranca\obj\Debug\net6.0\ref\aula135Heranca.dll
