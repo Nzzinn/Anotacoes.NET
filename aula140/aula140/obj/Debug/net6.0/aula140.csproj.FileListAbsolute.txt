@@ -1,0 +1,14 @@
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\bin\Debug\net6.0\aula140.exe
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\bin\Debug\net6.0\aula140.deps.json
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\bin\Debug\net6.0\aula140.runtimeconfig.json
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\bin\Debug\net6.0\aula140.dll
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\bin\Debug\net6.0\aula140.pdb
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.AssemblyInfoInputs.cache
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.AssemblyInfo.cs
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.csproj.CoreCompileInputs.cache
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.dll
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\refint\aula140.dll
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.pdb
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\aula140.genruntimeconfig.cache
+C:\Users\2569792\Documents\Anotacoes.NET\aula140\aula140\obj\Debug\net6.0\ref\aula140.dll
